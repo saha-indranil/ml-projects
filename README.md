@@ -8,3 +8,4 @@ Open the projects in [Google Colab](https://colab.research.google.com/) to run t
 | #2  | [Classify images of clothing](Fashion_MNIST.ipynb) | [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)                                            |
 | #3  | [Classify CIFAR-10 images](CIFAR-10.ipynb)         | [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)                                                      |
 | #4  | [Disease Prediction](./disease-prediction/)        | [Disease Symptom Prediction](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset) |
+| #4  | [Article Research Tool](./articale-research-tool/) | Using NLP and Langchain                                                                                      |

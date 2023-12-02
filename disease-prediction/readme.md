@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a disease prediction website built with Flask. It uses machine learning models (random forest) to predict diseases based on various symptoms.
+This is a disease prediction website built with Flask API. It uses machine learning models (random forest) to predict diseases based on various symptoms.
 
 ![](usage.png)
 
